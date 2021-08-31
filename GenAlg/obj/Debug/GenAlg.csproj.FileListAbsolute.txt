@@ -1,0 +1,68 @@
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\bin\Debug\GenAlg.exe.config
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\bin\Debug\GenAlg.exe
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\bin\Debug\GenAlg.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Common.dll
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Logic.dll
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\bin\Debug\GraphX.WPF.Controls.dll
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\bin\Debug\QuickGraph.dll
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Common.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Logic.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\bin\Debug\GraphX.WPF.Controls.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\obj\Debug\GenAlg.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\obj\Debug\GenAlg.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\obj\Debug\GenAlg.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\obj\Debug\GenAlg.csproj.CopyComplete
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\obj\Debug\GenAlg.exe
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\obj\Debug\GenAlg.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\1.Теория принятия решения\Курсовая\CoursWork\GenAlg\GenAlg\obj\Debug\GenAlg.Form1.resources
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\bin\Debug\GenAlg.exe.config
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\bin\Debug\GenAlg.exe
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\bin\Debug\GenAlg.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Common.dll
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Logic.dll
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\bin\Debug\GraphX.WPF.Controls.dll
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\bin\Debug\QuickGraph.dll
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Common.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Logic.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\bin\Debug\GraphX.WPF.Controls.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\obj\Debug\GenAlg.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\obj\Debug\GenAlg.Form1.resources
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\obj\Debug\GenAlg.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\obj\Debug\GenAlg.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\obj\Debug\GenAlg.csproj.CopyComplete
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\obj\Debug\GenAlg.exe
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)\GenAlg\GenAlg\obj\Debug\GenAlg.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\bin\Debug\GenAlg.exe.config
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\bin\Debug\GenAlg.exe
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\bin\Debug\GenAlg.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Common.dll
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Logic.dll
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\bin\Debug\GraphX.WPF.Controls.dll
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\bin\Debug\QuickGraph.dll
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Common.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Logic.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\bin\Debug\GraphX.WPF.Controls.pdb
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\obj\Debug\GenAlg.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\obj\Debug\GenAlg.Form1.resources
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\obj\Debug\GenAlg.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\obj\Debug\GenAlg.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\obj\Debug\GenAlg.csproj.CopyComplete
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\obj\Debug\GenAlg.exe
+C:\Users\Evgeniy\Desktop\7 семестр\CoursWork(Челембе)исправлено\GenAlg\GenAlg\obj\Debug\GenAlg.pdb
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\bin\Debug\GenAlg.exe.config
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\bin\Debug\GenAlg.exe
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\bin\Debug\GenAlg.pdb
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Common.dll
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Logic.dll
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\bin\Debug\GraphX.WPF.Controls.dll
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\bin\Debug\QuickGraph.dll
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Common.pdb
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\bin\Debug\GraphX.Standard.Logic.pdb
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\bin\Debug\GraphX.WPF.Controls.pdb
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\obj\Debug\GenAlg.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\obj\Debug\GenAlg.Form1.resources
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\obj\Debug\GenAlg.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\obj\Debug\GenAlg.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\obj\Debug\GenAlg.csproj.CopyComplete
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\obj\Debug\GenAlg.exe
+C:\Users\Evgeniy\Desktop\проекты\GenAlg\GenAlg\obj\Debug\GenAlg.pdb
